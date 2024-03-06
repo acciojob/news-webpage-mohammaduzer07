@@ -6,8 +6,12 @@ body{
 .col{
 	display: flex;
 }
+header{
+	text-align: center;
+}
 .header{
 	display: flex;
+	text-align: center;
 	justify-content: center;
 	width: 90%vw;
 	background: #011e29;
